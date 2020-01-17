@@ -1,0 +1,433 @@
+//add recordings
+//add -r album_id title producer year
+add -r 100 "Please Please Me" "Beatles" "George Martin" 1963
+add -r 101 "With The Beatles" "Beatles" "George Martin" 1963
+add -r 102 "A Hard Day's Night" "Beatles" "George Martin" 1964
+add -r 103 "Beatles For Sale" "Beatles" "George Martin" 1964
+add -r 104 "Help" "Beatles" "George Martin" 1965
+add -r 105 "Rubber Soul" "Beatles" "George Martin" 1965
+add -r 106 "Revolver" "Beatles" "George Martin" 1966
+add -r 107 "Sgt. Pepper's Lonely Harts Club Band" "Beatles" "George Martin" 1967
+add -r 108 "The Beatles aka White Album" "Beatles" "George Martin" 1968
+add -r 109 "Yellow Submarine" "Beatles" "George Martin" 1969
+add -r 110 "Abbey Road" "Beatles" "George Martin" 1969
+add -r 111 "Let It Be" "Beatles" "Phil Spector" 1970
+//add songs
+//add -s sid title composer
+add -s 1000 "I Saw Her Standing There" "Paul McCartney, John Lennon"
+add -s 1001 "Misery" "Paul McCartney, John Lennon"
+add -s 1002 "Anna (Go To Him)" "Arthur Alexander"
+add -s 1003 "Chains" "Gerry Goffin, Carole King"
+add -s 1004 "Boys" "Luther Dixon, Wes Farrell"
+add -s 1005 "Ask Me Why" "Paul McCartney, John Lennon"
+add -s 1006 "Please Please Me" "Paul McCartney, John Lennon"
+add -s 1007 "Love Me Do" "Paul McCartney, John Lennon"
+add -s 1008 "P.S. I Love You" "Paul McCartney, John Lennon"
+add -s 1009 "Baby It's You" "Hal David,Barney Williams, Burt Bacharach"
+add -s 1010 "Do You Want To Know A  Secret" "Paul McCartney, John Lennon"
+add -s 1011 "A Taste Of Honey" "Bobby Scott, Ric Marlow"
+add -s 1012 "There's A Place" "Paul McCartney, John Lennon"
+add -s 1013 "Twist and Shout" "Phil Medley, Bert Russell"
+add -s 1014 "It Won't Be Long" "Paul McCartney, John Lennon"
+add -s 1015 "All I've Got To Do" "Paul McCartney, John Lennon"
+add -s 1016 "All My Loving" "Paul McCartney, John Lennon"
+add -s 1017 "Don't Bother Me" "George Harrison"
+add -s 1018 "Little Child" "Paul McCartney, John Lennon"
+add -s 1019 "Till There Was You" "Meredith Willson"
+add -s 1020 "Please Mister Postman" "Georgia Dobbins, William Garrett, Freddie Gorman, Brian Holland, Robert Bateman"
+add -s 1021 "Roll Over Beethhoven" "Chuck Berry"
+add -s 1022 "Hold Me Tight" "Paul McCartney, John Lennon"
+add -s 1023 "I Wanna Be Your Man" "Paul McCartney, John Lennon"
+add -s 1024 "Devil In Her Heart" "Richard Drapkin"
+add -s 1025 "Not A Second Time" "Paul McCartney, John Lennon"
+add -s 1026 "Money (That's What I Want)" "Janie Bradford, Berry Gordy"
+add -s 1027 "A Hard Day's Night" "John Lennon, Paul McCartney"
+add -s 1028 "I Should Have Known Better" "John Lennon, Paul McCartney"
+add -s 1029 "If I Fell" "John Lennon, Paul McCartney"
+add -s 1030 "I'm Happy Just To Dance With You" "John Lennon, Paul McCartney"
+add -s 1031 "And I Love Her" "John Lennon, Paul McCartney"
+add -s 1032 "Tell Me Why" "John Lennon, Paul McCartney"
+add -s 1033 "Can't Buy Me Love" "John Lennon, Paul McCartney"
+add -s 1034 "Any Time at All" "John Lennon, Paul McCartney"
+add -s 1035 "I'll Cry Instead" "John Lennon, Paul McCartney"
+add -s 1036 "Things We Said Today" "John Lennon, Paul McCartney"
+add -s 1037 "When I Get Home" "John Lennon, Paul McCartney"
+add -s 1038 "You Can't Do That" "John Lennon, Paul McCartney"
+add -s 1039 "I'll Be Back" "John Lennon, Paul McCartney"
+add -s 1040 "No Reply" "John Lennon, Paul McCartney"
+add -s 1041 "I'm a Loser" "John Lennon, Paul McCartney"
+add -s 1042 "Baby's in Black" "John Lennon, Paul McCartney"
+add -s 1043 "Rock and Roll Music" "Chuck Berry"
+add -s 1044 "I'll Follow The Sun" "John Lennon, Paul McCartney"
+add -s 1045 "Mr. Moonlight" "Roy Lee Johnson"
+add -s 1046 "Kansas City/Hey,Hey,Hey,Hey" "Jerry Leiber, Mike Stoller / Richard Penniman"
+add -s 1047 "Eight Days a Week" "John Lennon, Paul McCartney"
+add -s 1048 "Words of Love" "Buddy Holly"
+add -s 1049 "Honey Don't" "Carl Perkins"
+add -s 1050 "Every Little Thing" "John Lennon, Paul McCartney"
+add -s 1051 "I Don't Want to Spoil the Party" "John Lennon, Paul McCartney"
+add -s 1052 "What You're Doing" "John Lennon, Paul McCartney"
+add -s 1053 "Everybody's Trying to Be My Baby" "Carl Perkins"
+add -s 1054 "Help!" "John Lennon, Paul McCartney"
+add -s 1055 "The Night Before" "John Lennon, Paul McCartney"
+add -s 1056 "You've Got To Hide Your love Away" "John Lennon, Paul McCartney"
+add -s 1057 "I Need You" "George Harrison"
+add -s 1058 "Another Girl" "John Lennon, Paul McCartney"
+add -s 1059 "You're Going to Lose That Girl" "John Lennon, Paul McCartney"
+add -s 1060 "Ticket To Ride" "John Lennon, Paul McCartney"
+add -s 1061 "Act naturally" "Johnny Russell, Voni Morrison"
+add -s 1062 "It's Only Love" "John Lennon, Paul McCartney"
+add -s 1063 "You Like Me Too Much" "John Lennon, Paul McCartney"
+add -s 1064 "Tell Me What You See" "John Lennon, Paul McCartney"
+add -s 1065 "I've Just Seen a Face" "John Lennon, Paul McCartney"
+add -s 1066 "Yesterday" "John Lennon, Paul McCartney"
+add -s 1067 "Dizzy Miss Lizzy" "Larry Williams"
+add -s 1068 "Drive My Car" "John Lennon, Paul McCartney"
+add -s 1069 "Norwegian Wood" "John Lennon, Paul McCartney"
+add -s 1070 "You Won't See Me" "John Lennon, Paul McCartney"
+add -s 1071 "Nowhere Man" "John Lennon, Paul McCartney"
+add -s 1072 "Think for Yourself" "George Harrison"
+add -s 1073 "The World" "John Lennon, Paul McCartney"
+add -s 1074 "Michelle" "John Lennon, Paul McCartney"
+add -s 1075 "What Goes On" "John Lennon, Paul McCartney, Richard Starkey"
+add -s 1076 "Girl" "John Lennon, Paul McCartney"
+add -s 1077 "I'm Looking Through You" "John Lennon, Paul McCartney"
+add -s 1078 "In My Life" "John Lennon, Paul McCartney"
+add -s 1079 "Wait" "John Lennon, Paul McCartney"
+add -s 1080 "If I Need Someone" "George Harrison"
+add -s 1081 "Run for Your Life" "John Lennon, Paul McCartney"
+add -s 1082 "Taxman" "George Harrison"
+add -s 1083 "Eleanor Rigby" "John Lennon, Paul McCartney"
+add -s 1084 "I'm Only Sleeping" "John Lennon, Paul McCartney"
+add -s 1085 "Love You To" "George Harrison"
+add -s 1086 "Here, There and Everywhere" "John Lennon, Paul McCartney"
+add -s 1087 "Yellow Submarine" "John Lennon, Paul McCartney"
+add -s 1088 "She Said She Said" "John Lennon, Paul McCartney"
+add -s 1089 "Good Day Sunshine" "John Lennon, Paul McCartney"
+add -s 1090 "And your Bird Can Sing" "John Lennon, Paul McCartney"
+add -s 1091 "For No One" "John Lennon, Paul McCartney"
+add -s 1092 "Doctor Robert" "John Lennon, Paul McCartney"
+add -s 1093 "I Want to Tell You" "George Harrison"
+add -s 1094 "Got to Get You into My Life" "John Lennon, Paul McCartney"
+add -s 1095 "Tomorrow Never Knows" "John Lennon, Paul McCartney"
+add -s 1096 "Sgt. Pepper's Lonely Hearts Club Band" "John Lennon, Paul McCartney"
+add -s 1097 "With a Little Help from My Friends" "John Lennon, Paul McCartney"
+add -s 1098 "Luch in the Sky with Diamonds" "John Lennon, Paul McCartney"
+add -s 1099 "Getting Better" "John Lennon, Paul McCartney"
+add -s 1100 "Fixing a Hole" "John Lennon, Paul McCartney"
+add -s 1101 "She's Leaving Home" "John Lennon, Paul McCartney"
+add -s 1102 "Being for the Benefit of Mr. Kite!" "John Lennon, Paul McCartney"
+add -s 1103 "Within You Without You" "George Harrison"
+add -s 1104 "When I'm Sixty-Four" "John Lennon, Paul McCartney"
+add -s 1105 "Lovely Rita" "John Lennon, Paul McCartney"
+add -s 1106 "Good Morning Good Morning" "John Lennon, Paul McCartney"
+add -s 1107 "Sgt. Pepper's Lonely Hearts Club Band (reprise)" "John Lennon, Paul McCartney"
+add -s 1108 "A Day in the Life" "John Lennon, Paul McCartney"
+add -s 1109 "Back in the U.S.S.R" "John Lennon, Paul McCartney"
+add -s 1110 "Dear Prudence" "John Lennon, Paul McCartney"
+add -s 1111 "Glass Onion" "John Lennon, Paul McCartney"
+add -s 1112 "Ob-La-Di, Ob-La_da" "John Lennon, Paul McCartney"
+add -s 1113 "Wild Honey Pie" "John Lennon, Paul McCartney"
+add -s 1114 "The Continuing Story of Bungalow Bill" "John Lennon, Paul McCartney"
+add -s 1115 "While My Guitar Gently Weeps" "George Harrison"
+add -s 1116 "Happiness Is a Warm Gun" "John Lennon, Paul McCartney"
+add -s 1117 "Martha My Dear" "John Lennon, Paul McCartney"
+add -s 1118 "I'm So Tired" "John Lennon, Paul McCartney"
+add -s 1119 "Blackbird" "John Lennon, Paul McCartney"
+add -s 1120 "Piggies" "Harrison"
+add -s 1121 "Rocky Raccon" "John Lennon, Paul McCartney"
+add -s 1122 "Don't Pass Me By" "Richard Starkey"
+add -s 1123 "Why Don't We Do It in the Road" "John Lennon, Paul McCartney"
+add -s 1124 "I Will" "John Lennon, Paul McCartney"
+add -s 1125 "Julia" "John Lennon, Paul McCartney"
+add -s 1126 "Birthday" "John Lennon, Paul McCartney"
+add -s 1127 "Yer Blues" "John Lennon, Paul McCartney"
+add -s 1128 "Mother Nature's Son" "John Lennon, Paul McCartney"
+add -s 1129 "Everybody's Got Something to Hide Except Me and My Monkey" "John Lennon, Paul McCartney"
+add -s 1130 "Sexy Sadie" "John Lennon, Paul McCartney"
+add -s 1131 "Helter Skelter" "John Lennon, Paul McCartney"
+add -s 1132 "Long, Long, Long" "John Lennon, Paul McCartney"
+add -s 1133 "Revolution 1" "John Lennon, Paul McCartney"
+add -s 1134 "Honey Pie" "John Lennon, Paul McCartney"
+add -s 1135 "Savoy Truffle" "George Harrison"
+add -s 1136 "Cry Baby Cry" "John Lennon, Paul McCartney"
+add -s 1137 "Revolution 9" "John Lennon, Paul McCartney"
+add -s 1138 "Good Night" "John Lennon, Paul McCartney"
+add -s 1139 "Yellow Submarine" "John Lennon, Paul McCartney"
+add -s 1140 "Only a Northern Song" "John Lennon, Paul McCartney"
+add -s 1141 "All Together Now" "John Lennon, Paul McCartney"
+add -s 1142 "Hey Bulldog" "John Lennon, Paul McCartney"
+add -s 1143 "It's All too Much" "John Lennon, Paul McCartney"
+add -s 1144 "All You Need Is Love" "John Lennon, Paul McCartney"
+add -s 1145 "Pepperland" "John Lennon, Paul McCartney"
+add -s 1146 "Sea of Time" "John Lennon, Paul McCartney"
+add -s 1147 "Sea of Holes" "John Lennon, Paul McCartney"
+add -s 1148 "Sea of Monsters" "John Lennon, Paul McCartney"
+add -s 1149 "March of the Meanies" "John Lennon, Paul McCartney"
+add -s 1150 "Pepperland Laid Waste" "John Lennon, Paul McCartney"
+add -s 1151 "Yellow Submarine in Pepperland" "John Lennon, Paul McCartney"
+add -s 1152 "Come Together" "John Lennon, Paul McCartney"
+add -s 1153 "Something" "George Harrison"
+add -s 1154 "Maxwell's Silver Hammer" "John Lennon, Paul McCartney"
+add -s 1155 "Oh! Darling" "John Lennon, Paul McCartney"
+add -s 1156 "Octopus's Garden" "Richard Starkey"
+add -s 1157 "I Want You (She's So Heavy)" "John Lennon, Paul McCartney"
+add -s 1158 "Here Comes The Sun" "George Harrison"
+add -s 1159 "Because" "John Lennon, Paul McCartney"
+add -s 1160 "You Never Give My Your Money" "John Lennon, Paul McCartney"
+add -s 1161 "Sun King" "John Lennon, Paul McCartney"
+add -s 1162 "Mean Mr. Mustard" "John Lennon, Paul McCartney"
+add -s 1163 "Polythene Pam" "John Lennon, Paul McCartney"
+add -s 1164 "She Came in Through the Bathroom Window" "John Lennon, Paul McCartney"
+add -s 1166 "Golden Slumbers" "John Lennon, Paul McCartney"
+add -s 1167 "Carry That Weight" "John Lennon, Paul McCartney"
+add -s 1168 "The End" "John Lennon, Paul McCartney"
+add -s 1169 "Her Majesty" "John Lennon, Paul McCartney"
+add -s 1170 "Two of Us" "John Lennon, Paul McCartney"
+add -s 1171 "Dig a Pony" "John Lennon, Paul McCartney"
+add -s 1172 "Across the Universe" "John Lennon, Paul McCartney"
+add -s 1173 "I Me Mine" "John Lennon, Paul McCartney"
+add -s 1174 "Dig It" "John Lennon, Paul McCartney, George Harrison, Richard Starkey"
+add -s 1175 "Let It Be" "John Lennon, Paul McCartney"
+add -s 1176 "Magie Mae" "John Lennon, Paul McCartney, George Harrison, Richard Starkey"
+add -s 1177 "I've Got a Feeling" "John Lennon, Paul McCartney"
+add -s 1178 "One After 909" "John Lennon, Paul McCartney"
+add -s 1179 "The Long and Winding road" "John Lennon, Paul McCartney"
+add -s 1180 "For You Blue" "John Lennon, Paul McCartney"
+add -s 1181 "Get Back" "John Lennon, Paul McCartney"
+//add tracks
+//add -t track_id albumID songID track_number
+add -t 1 100 1000 1
+add -t 2 100 1001 2
+add -t 3 100 1002 3
+add -t 4 100 1003 4
+add -t 5 100 1004 5
+add -t 6 100 1005 6
+add -t 7 100 1006 7
+add -t 8 100 1007 8
+add -t 9 100 1008 9
+add -t 10 100 1009 10
+add -t 11 100 1010 11
+add -t 12 100 1011 12
+add -t 13 100 1012 13
+add -t 14 100 1013 14
+add -t 15 101 1014 1
+add -t 16 101 1015 2
+add -t 17 101 1016 3
+add -t 18 101 1017 4
+add -t 19 101 1018 5
+add -t 20 101 1019 6
+add -t 21 101 1020 7
+add -t 22 101 1021 8
+add -t 23 101 1022 9
+add -t 24 101 1023 10
+add -t 25 101 1024 11
+add -t 26 101 1025 12
+add -t 27 101 1026 13
+add -t 28 102 1027 1
+add -t 29 102 1028 2
+add -t 30 102 1029 3
+add -t 31 102 1030 4
+add -t 32 102 1031 5
+add -t 33 102 1032 6
+add -t 34 102 1033 7
+add -t 35 102 1034 8
+add -t 36 102 1035 9
+add -t 37 102 1036 10
+add -t 38 102 1037 11
+add -t 39 102 1038 12
+add -t 40 102 1039 13
+add -t 41 103 1040 1
+add -t 42 103 1041 2
+add -t 43 103 1042 3
+add -t 44 103 1043 4
+add -t 45 103 1044 5
+add -t 46 103 1045 6
+add -t 47 103 1046 7
+add -t 48 103 1047 8
+add -t 49 103 1048 9
+add -t 50 103 1049 10
+add -t 51 103 1050 11
+add -t 52 103 1051 12
+add -t 53 103 1052 13
+add -t 54 103 1053 14
+add -t 55 104 1054 1
+add -t 56 104 1055 2
+add -t 57 104 1056 3
+add -t 58 104 1057 4
+add -t 59 104 1058 5
+add -t 60 104 1059 6
+add -t 61 104 1060 7
+add -t 62 104 1061 8
+add -t 63 104 1062 9
+add -t 64 104 1063 10
+add -t 65 104 1064 11
+add -t 66 104 1065 12
+add -t 67 104 1066 13
+add -t 68 104 1067 14
+add -t 69 105 1068 1
+add -t 70 105 1069 2
+add -t 71 105 1070 3
+add -t 72 105 1071 4
+add -t 73 105 1072 5
+add -t 74 105 1073 6
+add -t 75 105 1074 7
+add -t 76 105 1075 8
+add -t 77 105 1076 9
+add -t 78 105 1077 10
+add -t 79 105 1078 11
+add -t 80 105 1079 12
+add -t 81 105 1080 13
+add -t 82 105 1081 14
+add -t 83 106 1082 1
+add -t 84 106 1083 2
+add -t 85 106 1084 3
+add -t 86 106 1085 4
+add -t 87 106 1086 5
+add -t 88 106 1087 6
+add -t 89 106 1088 7
+add -t 90 106 1089 8
+add -t 91 106 1090 9
+add -t 92 106 1091 10
+add -t 93 106 1092 11
+add -t 94 106 1093 12
+add -t 95 106 1094 13
+add -t 96 106 1095 14
+add -t 97 107 1096 1
+add -t 98 107 1097 2
+add -t 99 107 1098 3
+add -t 100 107 1099 4
+add -t 101 107 1100 5
+add -t 102 107 1101 6
+add -t 103 107 1102 7
+add -t 104 107 1103 8
+add -t 105 107 1104 9
+add -t 106 107 1105 10
+add -t 107 107 1106 11
+add -t 108 107 1107 12
+add -t 109 107 1108 13
+add -t 110 108 1109 1
+add -t 111 108 1110 2
+add -t 112 108 1111 3
+add -t 113 108 1112 4
+add -t 114 108 1113 5
+add -t 115 108 1114 6
+add -t 116 108 1115 7
+add -t 117 108 1116 8
+add -t 118 108 1117 9
+add -t 119 108 1118 10
+add -t 120 108 1119 11
+add -t 121 108 1120 12
+add -t 122 108 1121 13
+add -t 123 108 1122 14
+add -t 124 108 1123 15
+add -t 125 108 1124 16
+add -t 126 108 1125 17
+add -t 127 108 1126 18
+add -t 128 108 1127 19
+add -t 129 108 1128 20
+add -t 130 108 1129 21
+add -t 131 108 1130 22
+add -t 132 108 1131 23
+add -t 133 108 1132 24
+add -t 134 108 1133 25
+add -t 135 108 1134 26
+add -t 136 108 1135 27
+add -t 137 108 1136 28
+add -t 138 108 1137 29
+add -t 139 108 1138 30
+add -t 140 109 1139 1
+add -t 141 109 1140 2
+add -t 142 109 1141 3
+add -t 143 109 1142 4
+add -t 144 109 1143 5
+add -t 145 109 1144 6
+add -t 146 109 1145 7
+add -t 147 109 1146 8
+add -t 148 109 1147 9
+add -t 149 109 1148 10
+add -t 150 109 1149 11
+add -t 151 109 1150 12
+add -t 152 109 1151 13
+add -t 153 110 1152 1
+add -t 154 110 1153 2
+add -t 155 110 1154 3
+add -t 156 110 1155 4
+add -t 157 110 1156 5
+add -t 158 110 1157 6
+add -t 159 110 1158 7
+add -t 160 110 1159 8
+add -t 161 110 1160 9
+add -t 162 110 1161 10
+add -t 163 110 1162 11
+add -t 164 110 1163 12
+add -t 165 110 1164 13
+add -t 167 110 1166 14
+add -t 168 110 1167 15
+add -t 169 110 1168 16
+add -t 170 110 1169 17
+add -t 171 111 1170 1
+add -t 172 111 1171 2
+add -t 173 111 1172 3
+add -t 174 111 1173 4
+add -t 175 111 1174 5
+add -t 176 111 1175 6
+add -t 177 111 1176 7
+add -t 178 111 1177 8
+add -t 179 111 1178 9
+add -t 180 111 1179 10
+add -t 181 111 1180 11
+add -t 182 111 1181 12
+//add users
+//add -u user_id name
+add -u gjones "Glenn Jones"
+add -u sjones "Susan Jones"
+add -u fjones "Frank Jones"
+add -u ajones "Anne Jones"
+add -u cindy "Cindy Reynolds"
+//add playlists
+//add -p user_id playlist_name
+add -p gjones "mysongs"
+add -p fjones "favourites"
+add -p fjones "mysongs"
+add -p ajones "morning songs"
+add -p ajones "evening songs"
+add -p ajones "driving"
+add -p ajones "favourites"
+add -p cindy "help"
+add -p cindy "songs"
+//add playlist tracks
+//add -l userid playlist_name, track_id
+add -l gjones "mysongs" 1
+add -l gjones "mysongs" 6
+add -l ajones "driving" 11
+add -l ajones "favourites" 11
+add -l cindy "songs" 11
+add -l fjones "favourites" 11
+add -l cindy "songs" 13
+add -l fjones "favourites" 13
+add -l fjones "favourites" 14
+add -l ajones "driving" 26
+add -l cindy "songs" 26
+add -l cindy "help" 55
+add -l cindy "help" 56
+add -l cindy "help" 57
+add -l cindy "help" 58
+add -l cindy "help" 59
+add -l cindy "help" 60
+add -l cindy "help" 61
+add -l cindy "help" 62
+add -l cindy "help" 63
+add -l cindy "help" 64
+add -l cindy "help" 65
+add -l cindy "help" 66
+add -l cindy "help" 67
+add -l cindy "help" 68
+add -l ajones "driving" 70
+add -l ajones "favourites" 70
+add -l cindy "songs" 70
+add -l ajones "favourites" 71
+add -l cindy "songs" 71
+add -l fjones "favourites" 71
+add -l gjones "mysongs" 81
+add -l gjones "mysongs" 82
